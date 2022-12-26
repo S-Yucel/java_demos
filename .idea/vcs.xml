@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InheritanceDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amicableNumbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/characters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/classesWithAttributes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conditionals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataTypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/findNumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javaHelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methodOverloading" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiDimensionalArrayDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/overriding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/perfectNumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/polymorphismDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reCapDemos_Classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recapDemo1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recapDemo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smallProjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stringsDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/switchDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables" vcs="Git" />
+  </component>
+</project>
